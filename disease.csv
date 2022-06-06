@@ -1,0 +1,5 @@
+sn,Name of eye disease,Cause due to,Treatement by using,formula for calculation power for using lens
+1,myopia,,elonagation of eye ball,concave lens,p=-(1/x) where x=can not see
+2,hypermetropia,contraction of eye ball,convex lens,p=(x-d/x-d)where x= can not see,D=25cm
+3,astigmatism,anunequal curvature of cornea,cylindrical lens
+4,presbyopia,reduction of elasticity of lens,bifocal lens

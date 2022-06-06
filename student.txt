@@ -1,0 +1,3 @@
+name rollno physics chemistry math english nepali per grade
+mp 2 33 44 55 55 67 50.8 C
+qw 3 44 55 55 78 88 64.0 B

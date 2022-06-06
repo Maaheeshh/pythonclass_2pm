@@ -1,0 +1,3 @@
+product price quantity total
+momo 33 4 132
+chw 33 1 33

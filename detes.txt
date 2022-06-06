@@ -1,0 +1,3 @@
+product,price,quantity,total
+momo 55 7 385
+chw 67 3 201
